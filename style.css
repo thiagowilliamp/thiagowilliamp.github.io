@@ -1,4 +1,2 @@
-img.under {
-     max-width: 100%;
-     height: auto;
-}
+* body { margin:0; }
+img.under { max-width: 100%; height: auto; }
